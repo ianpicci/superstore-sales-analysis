@@ -6,7 +6,7 @@ The analysis was conducted using SQL for data preparation and Power BI for visua
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](assets/images/dashboard.png)
 
 ## Key Insights
 
