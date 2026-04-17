@@ -7,4 +7,4 @@
 -- 3. Profitability problem is concentrated in subcategories such as Tables and Bookcases
 -- 4. These subcategories have discount higher than average
 -- 5. Althought discount are directly related to these subcategories, it is not a major concern overall
--- 6. The main buisness problem ir margin erosion, not a lack of sales.
+-- 6. The main buisness problem is margin erosion, not a lack of sales.
